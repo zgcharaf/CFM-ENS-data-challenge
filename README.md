@@ -51,5 +51,3 @@ Instructions for using this repository:
 4. Train the model using the provided scripts.
 5. Evaluate the model on the test dataset to assess its performance.
 
-## Conclusion
-This challenge and the corresponding model provide insights into the complex dynamics of stock transactions through quantitative analysis of order book data. The successful identification of stocks from such anonymized data can significantly enhance trading strategies and asset management.
