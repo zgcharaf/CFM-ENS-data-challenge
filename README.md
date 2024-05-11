@@ -6,6 +6,9 @@ This repository is dedicated to a challenge where the objective is to identify s
 
 ## Data Description
 The dataset comprises detailed order book updates from multiple trading venues, capturing the dynamics of stock transactions over approximately two years. Each entry in the dataset represents a sequence of 100 consecutive atomic updates to the order books, with multiple such sequences available for each stock per day.
+## Data Link   
+Access the dataset for the CFM-ENS-data-challenge through the following link:
+CFM ENS Challenge Dataset
 
 ### Structure
 - **X**: Each sequence contains 20 daily sequences for each of the 24 stocks over 504 days, resulting in a total of 24,240,000 lines. The columns include:
